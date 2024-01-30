@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xenioo Changelog</title>
+    <description/>
+    <copyright>(c) Link Mobility Group</copyright>
+    <language>en</language>
+    <item>
+      <title>[OpenAI Assistant](h</title>
+      <description>[OpenAI Assistant](https://platform.openai.com/docs/assistants/how-it-works/agents) integration is now available [under the input](https://docs.xenioo.com/actions-and-operations/input/openai) section.</description>
+      <pubDate>Tue, 30 Jan 2024 09:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Distribution Lists]</title>
+      <description>[Distribution Lists](https://docs.xenioo.com/broadcast/distribution-lists) can now be scheduled to be executed at a specific date and time.</description>
+      <pubDate>Tue, 30 Jan 2024 09:57:50 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
